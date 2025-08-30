@@ -1,4 +1,3 @@
-import React, { useEffect } from "react";
 
 import SellerRoutes from "../../../routes/SellerRoutes";
 import Navbar from "../../../admin seller/components/navbar/Navbar";
