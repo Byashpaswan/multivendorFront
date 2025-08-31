@@ -22,7 +22,7 @@ const Auth = () => {
     return (
         <div className='flex justify-center h-[90vh] items-center'>
             <div className='max-w-md h-[85vh] rounded-md border shadow-lg '>
-                <img className='w-full rounded-t-md' src="/loginBanner.png" alt="" />
+                <img className='w-full rounded-t-md' src="/newlogin_banner.png" alt="" />
                 <div className='mt-8 px-10'>
                     {isLoginPage ? <LoginForm /> : <SignupForm />}
 
