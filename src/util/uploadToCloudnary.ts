@@ -1,7 +1,7 @@
 export const uploadToCloudinary = async (pics:any) => {
 
-    const cloud_name="your cloud name"
-    const upload_preset="your presety"
+    const cloud_name="dex3llsph"
+    const upload_preset="my"
     
     if (pics) {
       
