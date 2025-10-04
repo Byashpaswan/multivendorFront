@@ -47,7 +47,7 @@ const Home = () => {
 
 
                 <section className='lg:px-20 relative h-[200px] lg:h-[450px] object-cover'>
-                    <img className='w-full h-full' src={"/seller_banner_image.jpg"} alt="" />
+                    <img className='w-full h-full' src={"/newbanner.jpg"} alt="" />
                     <div className='absolute top-1/2 left-4 lg:left-[15rem] transform  -translate-y-1/2 font-semibold lg:text-4xl space-y-3 '>
                         <h1 className=''>
                             Sell Your Product
