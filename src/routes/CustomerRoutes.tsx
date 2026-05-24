@@ -20,7 +20,7 @@ import Wishlist from '../customer/pages/Wishlist/Wishlist'
 import { getWishlistByUserId } from '../Redux Toolkit/Customer/WishlistSlice'
 import ChatBot from '../customer/pages/ChatBot/ChatBot'
 import SearchProducts from '../customer/pages/Search/SearchProducts'
-import Services from '../customer/pages/services/Services'
+import Services from '../customer/pages/service/Services'
 import About from '../customer/pages/about/About'
 import Contact from '../customer/pages/Contact/Contact'
 
